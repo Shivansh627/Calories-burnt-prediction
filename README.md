@@ -1,4 +1,6 @@
 Calories Prediction using XGBoost
+
+
 This project aims to predict the number of calories burned based on exercise-related features, using the XGBoost regression model. The dataset contains information about individuals' exercises, such as their gender, age, height, weight, exercise duration, heart rate, and body temperature, alongside the calories burned during the exercise.
 
 Project Structure
